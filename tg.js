@@ -17,8 +17,8 @@ generic.none Wala
 generic.connecting KUMOKONEKTA...
 generic.select Pumili
 generic.delete Tanggalin
-generic.save Mag-save
-generic.load Mag-Load
+generic.save I-save
+generic.load I-Load
 generic.search Humanap
 generic.leave Umalis
 generic.default Default
@@ -469,7 +469,7 @@ windows.loadout.primary.scope Scope
 windows.loadout.secondary Sekundarya
 windows.loadout.secondary.skin Disenyo ng Sekundarya
 windows.loadout.melee Patalim
-windows.loadout.hat Sombrero
+windows.loadout.hat Sumbrero
 windows.loadout.back Katawan at Likod
 windows.loadout.waist Baywang
 windows.loadout.shoe Sapatos
