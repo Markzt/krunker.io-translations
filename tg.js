@@ -150,14 +150,14 @@ settings.quality.flap Takip ng Sniper
 settings.quality.lowSpec Mababang Spec
 settings.quality.ambient Ambient na Shading
 settings.quality.ambientOld Lumang pag-shade (kung posible)
-settings.quality.textureAnim Buhay na animasyon ngTextura
+settings.quality.textureAnim Buhay na animasyon ng Textura
 settings.quality.objectAnim Mga Animasyong Bagay
 settings.quality.screenShake Pag-alog ng Screen
 settings.quality.weaponShine Kintab ng Armas
 settings.quality.rendGamma Gamma
 settings.quality.lighting Mga Ilaw
 settings.quality.showExplo Ipakita ang Mga Pagsabog
-settings.quality.aspectRatio Aspect ratio 
+settings.quality.aspectRatio Aspecto ng ratio 
 settings.post.header Post Processing
 settings.post.post Post Processing
 settings.post.bloom Pagningning ng Ilaw 
