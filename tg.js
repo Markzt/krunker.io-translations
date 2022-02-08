@@ -884,10 +884,10 @@ social.trades.out.head Palabas na Pag-aalok ({0})
 social.trades.history Talaan ng mga alok
 social.trades.history.head Kasaysayan ng Pag-kakalakalan ({0})
 social.trades.decline Tanggihan Lahat
-social.trades.message Payagan ang mga Trade Message at Pag-alok sa Settings
-social.trades.warning Wala kang makukuhang kagamitan sa Pag-alok na ito!
-social.trades.accept Nais mo bang tanggapin ang Pag-alok na ito?
-stats.airdrops Pakete ng KR
+social.trades.message Payagan ang mga Trade Message at trade sa Settings
+social.trades.warning Wala kang makukuhang kagamitan satrade na ito!
+social.trades.accept Nais mo bang tanggapin ang trade na ito?
+stats.airdrops drops ng KR
 stats.airdrops.stolen Airdrops Stolen
 settings.quality.flapAnim Animasyon ng Sniper flap
 chall.name.hs Get {0} headshots {1}
@@ -906,7 +906,7 @@ chall.name.drk Get {0} drift kills {1}
 chall.name.kstk Get a {0} killstreak {1}
 chall.name.w Win {0} matches
 chall.name.d Die {0} times
-chall.name.score Get {0} score
+chall.name.score Get {0} skore
 chall.name.dmg Deal {0} damage {1}
 chall.name.bzk Get {0} buzz kills {1}
 chall.name.cc Get {0} close-calls {1}
