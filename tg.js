@@ -35,7 +35,7 @@ generic.defeat PAGKATALO!
 generic.victory TAGUMPAY! 
 generic.matchover Pagtatapos ng laro
 generic.matchaband Inabandonang Paglaro
-generic.follow Follow
+generic.follow I-Follow
 generic.unfollow I-Unfollow
 generic.followers Mga Tagasunod
 generic.following Mga Sinusunod
@@ -77,7 +77,8 @@ purchase.error May naganap na error
 purchase.error.click dito</a> subukan muli!
 purchase.error.limit Maaaring lumagpas ka sa iyong pang-araw-araw na limitasyon sa transaksyon. 
 settings.reset Mag-reset
-settings.reset.confirm Sigurado ka bang mag-reset ng inyong settings?
+settings.reset.confirm Sigurado ka bang mag-rereset ka
+ng inyong settings?
 settings.import iangkat
 settings.export iluwas
 settings.none Walang nahanap na mga settings
