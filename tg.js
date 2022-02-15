@@ -6,10 +6,10 @@ menu.btn.maps Laro at Mapa
 menu.btn.mods Mods
 menu.btn.settings Settings
 menu.btn.customize Kustomisasyon
-menu.btn.invite Mag-anyaya
-menu.btn.invite.clicked Nakopya
-menu.btn.join Sumali
-menu.btn.host Mag-host
+menu.btn.invite Mag-anyaya!
+menu.btn.invite.clicked Nakopya!
+menu.btn.join Sumali!
+menu.btn.host Mag-host!
 menu.btn.browser Mga Server
 generic.wait naghihintay...
 generic.loading LOADING...
