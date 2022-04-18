@@ -11,7 +11,7 @@ menu.btn.invite.clicked Nakopya
 menu.btn.join Sumali
 menu.btn.host Mag-host
 menu.btn.browser Mga Server
-generic.wait naghihintay...
+generic.wait Naghihintay...
 generic.loading LOADING...
 generic.none Wala
 generic.connecting KUMOKONEKTA...
@@ -35,7 +35,7 @@ generic.defeat PAGKATALO!
 generic.victory TAGUMPAY! 
 generic.matchover Pagtatapos ng laro
 generic.matchaband Inabandonang paglaro
-generic.follow Follow
+generic.follow I-Follow
 generic.unfollow I-Unfollow
 generic.followers Mga Tagahanga
 generic.following Mga Hinahangaan
